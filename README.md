@@ -1,5 +1,5 @@
 # blockchain-tutorial
-This is a basic block chain created from scratch to understand how blockchain works under the hood.
+This is a basic blockchain created from scratch to understand how blockchain works under the hood.
 
 Features are;
 * Chain details
